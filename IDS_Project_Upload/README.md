@@ -140,6 +140,12 @@ python api_server.py
 
 ---
 
+## 本项目作者及单位：
+
+项目名称：IDS_Project
+项目作者：张嘉润
+项目单位：暨南大学网络空间安全学院
+
 ## License
 
 MIT License
